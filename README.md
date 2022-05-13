@@ -10,9 +10,15 @@
 git clone https://github.com/PipecraftNet/fetch-zhubai-subscriptions.git
 ```
 
-2. 复制 `.env_sample` 文件到 `.env` 文件，在里面添加 `COOKIE_VALUE` 值。
+2.
 
-3.
+```sh
+npm install
+```
+
+3. 复制 `.env_sample` 文件到 `.env` 文件，在里面添加 `COOKIE_VALUE` 值。
+
+4.
 
 ```sh
 npm start
